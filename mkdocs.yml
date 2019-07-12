@@ -1,0 +1,13 @@
+site_name: My Docs
+
+theme: readthedocs
+
+repo_url: https://github.com/codemute/docs
+repo_name: Github
+
+site_description: codemute Documentation
+site_author: codemute
+copyright: 2019 &copy; codemute
+
+nav:
+  - Home: index.md
