@@ -1,5 +1,7 @@
 # codemute - Documentation
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b9a861ea-b291-44ce-a3f5-b33f07d7b39d/deploy-status)](https://app.netlify.com/sites/codemutedocs/deploys)
+
 Welcome to [codemute][cm] documentation. Here you will find information on the
 projects, their source, etc. We believe documentation is extremely important
 when you write code, and this repository will be constantly updated to regulate
